@@ -7,7 +7,7 @@
 ## Overview
 This project explores how business architecture and decision intelligence frameworks can be used to improve how organisations structure, evaluate, and act on decisions.
 
-Rather than focusing on isolated analysis, the work looks at how data, processes, stakeholders, and objectives connect across the business to support more consistent and transparent decision-making.
+Rather than focusing on isolated analysis, the work looks at how data, processes, stakeholders, and objectives connect across the business to support more consistent and transparent decision-making. The project applies business analysis and decision intelligence principles to support structured, stakeholder-aligned commercial decision-making.
 
 ## Business context
 Organisations often struggle not because they lack data, but because decisions are made in silos without a shared understanding of objectives, dependencies, or trade-offs.
