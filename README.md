@@ -40,6 +40,12 @@ The emphasis is on **decision design**, not automation.
 - Improved alignment between marketing, client service, and account teams
 - A repeatable way to assess where analytics can genuinely improve decision-making
 
+## Skills demonstrated
+- Business analysis and decision framing
+- Data analysis using Python and SQL
+- Commercial performance evaluation
+- Stakeholder-focused insight communication
+
 ## Tools & concepts
 - Business architecture principles
 - Decision intelligence frameworks
