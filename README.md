@@ -1,64 +1,57 @@
-# Business Architecture & Decision Intelligence
-![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Decision%20Focused-blue)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insight%20Driven-success)
-![Python](https://img.shields.io/badge/Python-Analysis-yellow)
-![SQL](https://img.shields.io/badge/SQL-Querying-lightgrey)
+# Business Architecture & Decision Intelligence  
+## Airport Operations Strategy & Transformation
 
-## Overview
-This project explores how business architecture and decision intelligence frameworks can be used to improve how organisations structure, evaluate, and act on decisions.
+This repository presents a **business architecture and decision intelligence analysis** of airport operations, focused on identifying **where leadership attention, data, and analytics create the greatest leverage**.
 
-Rather than focusing on isolated analysis, the work looks at how data, processes, stakeholders, and objectives connect across the business to support more consistent and transparent decision-making. The project applies business analysis and decision intelligence principles to support structured, stakeholder-aligned commercial decision-making.
+Rather than optimising individual processes, the work reframes airport operations as a **system of interdependent decisions**, shaped by regulation, capacity constraints, airline relationships, sustainability commitments, and capital intensity.
 
-## Business context
-Organisations often struggle not because they lack data, but because decisions are made in silos without a shared understanding of objectives, dependencies, or trade-offs.
+This is positioned as **aviation strategy and transformation analysis**, not operational reporting.
 
-This project reflects a scenario where leadership teams want to:
-- Improve decision quality
-- Align operational decisions with strategic goals
-- Reduce friction between commercial, marketing, and client-facing teams
+## What this project demonstrates
 
-## Key business questions
-- How can decisions be structured so they are repeatable, explainable, and aligned to business objectives?
-- Where do data and insights add the most value within decision flows?
-- How can decision-making be supported across marketing, client service, and account management functions?
+- Airport, airline, and air transport domain understanding  
+- Decision-centric business architecture thinking  
+- Ability to prioritise transformation under real-world constraints  
+- Translation of data into executive-level decision guidance  
 
-## Analytical approach
-The project applies business architecture and decision intelligence concepts to:
-- Map decision contexts and stakeholders
-- Identify decision inputs, constraints, and outcomes
-- Clarify where data and analytics should inform judgment rather than replace it
+The analysis is relevant to **airport operators, airline partners, regulators, and air transport consultancies**.
 
-The emphasis is on **decision design**, not automation.
+## How to navigate this repository
+
+- **analysis/**  
+  Flagship decision architecture narrative and supporting analytical work  
+
+- **data/**  
+  Simplified airport decision intelligence dataset used for comparative prioritisation  
+
+- **visuals/**  
+  Stakeholder-facing decision landscape highlighting high-leverage decision areas  
+
+## Core business question
+
+Which airport operational decisions deliver disproportionate commercial and customer impact, and how should leadership prioritise data, analytics, and transformation investment?
 
 ## Insight snapshot
 
 ![Insight snapshot](visuals/insight_snapshot.png)
 
-*Decision landscape highlighting high-leverage airport operational decisions based on cost impact, customer impact, and automation potential.*
+*Decision landscape showing cost impact, customer impact, and automation potential across key airport decision areas.*
 
-## Key insights
-- Poor decisions are often the result of unclear ownership and misaligned objectives rather than lack of data
-- Explicitly defining decision criteria improves consistency across teams
-- Data is most valuable when embedded into decision processes, not presented as standalone reports
+## Why this matters
 
-## Practical outcomes
-- Clearer linkage between strategy and day-to-day decisions
-- Improved alignment between marketing, client service, and account teams
-- A repeatable way to assess where analytics can genuinely improve decision-making
+Airport leadership teams face sustained pressure from:
+
+- Capacity constraints and infrastructure limits  
+- Airline negotiations and route economics  
+- Sustainability and net-zero mandates  
+- Margin pressure and capital discipline  
+
+This project demonstrates how **decision architecture** enables leaders to focus effort where it matters most, without over-optimising or fragmenting the system.
 
 ## Skills demonstrated
-- Business analysis and decision framing
-- Data analysis using Python and SQL
-- Commercial performance evaluation
-- Stakeholder-focused insight communication
 
-## Tools & concepts
-- Business architecture principles
-- Decision intelligence frameworks
-- Analytical reasoning and stakeholder alignment
-
-## Limitations & next steps
-This project is conceptual by design. Future work could extend this into:
-- Quantitative decision models
-- Scenario analysis
-- Tool-supported decision dashboards
+- Business architecture  
+- Decision intelligence  
+- Aviation and air transport strategy  
+- Transformation prioritisation  
+- Executive-level communication  
