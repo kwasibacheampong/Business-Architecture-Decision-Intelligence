@@ -1,4 +1,8 @@
 # Business Architecture & Decision Intelligence
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Decision%20Focused-blue)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insight%20Driven-success)
+![Python](https://img.shields.io/badge/Python-Analysis-yellow)
+![SQL](https://img.shields.io/badge/SQL-Querying-lightgrey)
 
 ## Overview
 This project explores how business architecture and decision intelligence frameworks can be used to improve how organisations structure, evaluate, and act on decisions.
