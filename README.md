@@ -33,9 +33,10 @@ Which airport operational decisions deliver disproportionate commercial and cust
 
 ## Insight snapshot
 
-![Insight snapshot](visuals/insight_snapshot.png)
+![Decision architecture – core strategic tensions](visuals/decision_architecture_core_tensions.png)
 
-*Decision landscape showing cost impact, customer impact, and automation potential across key airport decision areas.*
+*Airport value creation is shaped by a small number of unresolved strategic tensions.  
+Decision architecture focuses leadership attention on where these tensions must be actively managed, rather than optimised away.*
 
 ## Why this matters
 
