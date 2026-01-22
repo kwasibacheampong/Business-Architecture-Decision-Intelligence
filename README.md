@@ -30,6 +30,12 @@ The project applies business architecture and decision intelligence concepts to:
 
 The emphasis is on **decision design**, not automation.
 
+## Insight snapshot
+
+![Insight snapshot](visuals/insight_snapshot.png)
+
+*Decision landscape highlighting high-leverage airport operational decisions based on cost impact, customer impact, and automation potential.*
+
 ## Key insights
 - Poor decisions are often the result of unclear ownership and misaligned objectives rather than lack of data
 - Explicitly defining decision criteria improves consistency across teams
